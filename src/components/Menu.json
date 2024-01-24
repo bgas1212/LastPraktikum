@@ -1,0 +1,14 @@
+{
+    "Foods":[
+        {"Name" : "nasi goreng"},
+        {"Name" : "mi goreng"},
+        {"Name" : "Kwetiaw goreng"}
+        
+    ],
+
+    "Baverages":[
+        {"Name" : "es teh"},
+        {"Name" : "es jeruk"},
+        {"Name" : "air mineral"}
+    ]
+}
