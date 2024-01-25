@@ -9,7 +9,8 @@ nav{
     margin: auto;
     align-items: center;
     justify-content: space-evenly;
-    /* position: fixed; */
+    position: fixed;
+    width: 100%;
     
 }
 
